@@ -112,8 +112,12 @@ Since class started in September I haven't had much time to do some extra-curric
 
 ![picture](img/soft-skills.png)
 
-The API and accessibility slides could easily come in handy as I'm pondering ideas for a capstone project.
+The API and accessibility slides could easily come in handy as I'm pondering ideas for the capstone project.
 
-## Another weakness of mine is working with vanilla Javascript code. I was recommended by a friend to visit leetcode.com, particularly  after school is over, to keep strengthening the brain.  I found some interesting articles essentially on problem solving.
+## Another weakness of mine is working with vanilla Javascript code. I went back and revisited my old intro projects, ping-pong and the pizza order app.
 
-![picture](img/leetcode.png)
+![picture](img/ping-pong.png)
+
+![picture](img/pizza.png)
+
+![picture](img/pizza-two.png)
