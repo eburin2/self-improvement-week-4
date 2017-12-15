@@ -15,8 +15,39 @@ I feel that it is important to articulate and understand the rudimentary and tec
 
 <!--The Basics vocabulary  -->
 
-**Conditionals** -
+**variables** - A variable is a named identifier with an associated value that changes through out the execution of an application or program.  Once a variable is defined in your program, the value can be changed if and when needed to suit the flow of your code.
 
+**Constants** - A constant is a named identifier with an associated value that does not change throughout the execution of an application or program.  In contrast to variables, which vary and change throughout the execution of an application, constants are fixed, and cannot be altered.
+
+**Data Types** - A specific kind of data item, defined by values it can accept, the programming language in question, and/or the operations that can be performed on it.  Common data types include integers(simple numbers), floating point numbers(decimal-based numbers), boolean values(True or False) and strings(a series or "string" of alphanumerical characters like a word, sentence, or paragraph) among many others.  
+
+**Data Structures** - A data structure is a specialized format for organizing and storing data in a manner that best suits the purpose the data is to be used for.  Common data structures in programming include arrays, tables, records, trees, and more.
+
+**Objects** - In object-oriented programming languages, object refers to a combination of related variables, constants, functions(also known as methods), and data structures that can be accessed and managed collectively.  
+
+**Scope** - Scope refers to the visibility of functions, methods and variables in one part of a program to another part of the same program.  Most languages share two general scope concepts. local scope (in which visibility is limited to the parent function or method) and global scope (in which visibility is unrestricted).
+
+**Pseudocode** - Much like rough drafts precede a final novel and allow broader details of a story to be sculpted, pseudocode is a simplified shorthand for programming languages used to outline the intent and flow of a program before writing and debugging actual code.
+
+**Conditionals** - When code must make a choice as to which way to proceed, conditionals process those decisions. Conditions evaluate to either TRUE or FALSE, and multiple conditions can be combined into a single condition as long as the final value of the condition remains a single TRUE or FALSE value.
+
+**Expressions** - An expression is a mathematical statement that consists of variables, numbers, and operations, and resolves into a specific value.
+
+**Loops** - A sequence of instructions that are continually repeated (looped) until a certain condition is reached.
+
+**API** - Short for application programming interface, an API is a set of programming instructions and standards for accessing the functionality of an operating system, software application, or utility. Software developers release their APIs to the public so that other developers can take advantage of their products' functionality and services in their own projects.
+
+**Callback** - A callback is a piece of executable code that's passed as an argument to other code statements and is expected to "call back" and execute at a specific time.  A synchronous (or blocking) callback is immediate, whereas an asynchronous (or deferred) callback is meant to occur at a later time.
+
+**Closures** - Described in its simplest form, a closure is a function within a function, stored as a variable.  Unlike normal functions, closures have a persistent scope that holds onto local variables even after your program has moved out of the code block they're defined within.
+
+**Compiled and interpreted languages** - Compiled languages (like C, C++, and swift) require you to compile and build your own code into a self-contained binary application before it can be distributed and run.
+
+Interpreted languages (like Python, PHP, and Javascript) are run by the language's interpreter on the host machine by reading the code directly, and providing instructions to the computer to execute the program.
+
+**Refactoring** - Code refactoring is the process restructuring existing code without altering its external behavior.  Refactoring is often used to improve non-functional areas of software, or to improve the performance or utility of specific areas of software.
+
+**IDE** - Short for Integrated Development Environment, and IDE is a development tool (or collection of tools) used to develop for particular languages, including code editors, compilers, debuggers, and other utilities.
 
 <!-- Javascript vocabulary -->
 
