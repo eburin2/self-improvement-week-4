@@ -98,6 +98,22 @@ That means components handle both rendering front-end pieces of user interface a
 
 ## Examining Lunch Speaker Slides and Notes
 
-Since class started in September I haven't had much time to do some extra-curricular reading So I will take the liberty to do so now with reviewing previous lunch speaker's slides and notes in hopes of gaining more insight into the tech field. 
+Since class started in September I haven't had much time to do some extra-curricular reading so I will take the liberty to do so now with reviewing previous lunch speaker's slides and notes in hopes of gaining more insight into the tech field.
+
+**John Peck's talk talk on APIs**
 
 ![picture](img/lunch-speaker-slides.png)
+
+**Joe Watkin's talk on tech accessibility**
+
+![picture](img/lunch-speaker-two.png)
+
+**Chris Wright's talk on soft skills**
+
+![picture](img/soft-skills.png)
+
+The API and accessibility slides could easily come in handy as I'm pondering ideas for a capstone project.
+
+## Another weakness of mine is working with vanilla Javascript code. I was recommended by a friend to visit leetcode.com, particularly  after school is over, to keep strengthening the brain.  I found some interesting articles essentially on problem solving.
+
+![picture](img/leetcode.png)
