@@ -11,7 +11,7 @@ This is an independent project where I will focus on and address my weaknesses, 
 
 ## Project
 
-I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with the explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is a chief imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order better my understanding retain the information. Also, I need to brush up on my typing speed so this will give me plenty of practice.
+I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is a chief imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order better my understanding retain the information. Also, I need to brush up on my typing speed so this will give me plenty of practice.
 
 <!--The Basics vocabulary  -->
 
