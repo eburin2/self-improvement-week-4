@@ -11,7 +11,7 @@ This is an independent project where I will focus on and address my weaknesses, 
 
 ## Project
 
-I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with the explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is one key imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order better my understanding retain the information.
+I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with the explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is a chief imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order better my understanding retain the information. Also, I need to brush up on my typing speed so this will give me plenty of practice.
 
 <!--The Basics vocabulary  -->
 
@@ -95,3 +95,9 @@ That means components handle both rendering front-end pieces of user interface a
 **Polyfill** - Code that implements a feature on web browsers that don't technically support that feature. This code compensates for any issues older browsers may experience white running an application.
 
 **SystemJS** - A module loader tool used internally by Angular to construct our applications.
+
+## Examining Lunch Speaker Slides and Notes
+
+Since class started in September I haven't had much time to do some extra-curricular reading So I will take the liberty to do so now with reviewing previous lunch speaker's slides and notes in hopes of gaining more insight into the tech field. 
+
+![picture](img/lunch-speaker-slides.png)
