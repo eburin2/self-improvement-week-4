@@ -13,6 +13,13 @@ This is an independent project where I will focus on and address my weaknesses, 
 
 I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with the explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is one key imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order better my understanding retain the information.
 
+<!--The Basics vocabulary  -->
+
+**Conditionals** -
+
+
+<!-- Javascript vocabulary -->
+
 BDD
 
 1. Identify the simplest possible behavior our program must exhibit
@@ -48,3 +55,12 @@ must occur to run an application are handled primarily by the client instead of 
 **View** - The Portion of an application the user sees, or views. It represents the user interface of the application.
 
 **Controller** - Handles input from the user such as clicks or browser events.  It is responsible for updating the model when necessary.
+
+**Client-Side MVC** - An application that both follows the MVC design structure and relies on the client to handle most of the actions necessary to run.  Angular 2, for example.
+
+**Component** - A small reusable package of both front and back-end code that works together.
+That means components handle both rendering front-end pieces of user interface and any back-end logic required to make those front-end elements interactive.
+
+**Polyfill** - Code that implements a feature on web browsers that don't technically support that feature. This code compensates for any issues older browsers may experience white running an application.
+
+**SystemJS** - A module loader tool used internally by Angular to construct our applications.
