@@ -1,17 +1,26 @@
 # Self-Improvement-Project
 
-
 #### By **Elliot Burin**
 
 ## Description
 
 This is an independent project where I will focus on and address my weaknesses, both technical and non-technical, from the last 14 weeks of school. 12-15-17
 
-
+#weaknesses
+- white boarding
+- understanding fundamentals of javascript
+- Pseudocoding
+- understanding and knowing coding terms
+- job interview prep
+- lacking in reading on tech related subject matter outside of school
+- studying habits (not efficient)
+- public speaking
+- communicating in technical language
+- need to type faster and more accurately
 
 ## Project
 
-I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with explaining the mechanics of what is happening on the computer screen or in the text editor through language.  This is a chief imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order to better my understanding and retain the information. Also, I need to brush up on my typing speed so this will give me plenty of practice.
+I feel that it is important to articulate and understand the rudimentary and technical concepts of coding along with explaining the mechanics of what is happening on the computer screen through language.  This is a chief imperfection I would greatly like to improve upon. In order to exercise this weakness I will sift through the lexicon of key words and concepts and type them out in order to better my understanding and retain the information. Also, I need to brush up on my typing speed so this will give me plenty of practice.
 
 <!--The Basics vocabulary  -->
 
@@ -114,10 +123,16 @@ Since class started in September I haven't had much time to do some extra-curric
 
 The API and accessibility slides could easily come in handy as I'm pondering ideas for the capstone project.
 
-## Another weakness of mine is working with vanilla Javascript code. I went back and revisited my old intro projects, ping-pong and the pizza order app.
+## Another weakness of mine is working with vanilla Javascript code. I went back and revisited my old intro projects, ping-pong and the pizza order app. to try to study and retain the key the concepts of the language at in this simple form.
 
 ![picture](img/ping-pong.png)
 
 ![picture](img/pizza.png)
 
 ![picture](img/pizza-two.png)
+
+#Read an Article on Job Preparation
+
+https://skillcrush.com/2016/02/04/get-hired-in-tech-this-year-beginner/
+
+https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331
