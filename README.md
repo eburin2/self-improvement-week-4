@@ -131,7 +131,7 @@ The API and accessibility slides could easily come in handy as I'm pondering ide
 
 ![picture](img/pizza-two.png)
 
-#Read an Article on Job Preparation
+#Read Articles on Job Preparation
 
 https://skillcrush.com/2016/02/04/get-hired-in-tech-this-year-beginner/
 
