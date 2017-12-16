@@ -123,7 +123,7 @@ Since class started in September I haven't had much time to do some extra-curric
 
 The API and accessibility slides could easily come in handy as I'm pondering ideas for the capstone project.
 
-## Another weakness of mine is working with vanilla Javascript code. I went back and revisited my old intro projects, ping-pong and the pizza order app. to try to study and retain the key the concepts of the language at in this simple form.
+## Another weakness of mine is working with vanilla Javascript code. I went back and revisited my old intro projects, ping-pong and the pizza order app. to try to study and retain the key the concepts of the language.
 
 ![picture](img/ping-pong.png)
 
